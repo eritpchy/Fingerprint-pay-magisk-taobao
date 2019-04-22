@@ -1,0 +1,6 @@
+name=指纹支付-淘宝
+version=v3.9.2
+versionCode=1
+author=Jason Eric
+description=让淘宝支持指纹支付\nFingerprint pay for Taobao
+api=3
