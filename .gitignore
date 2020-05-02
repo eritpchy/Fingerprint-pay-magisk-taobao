@@ -11,6 +11,4 @@
 /captures
 /out
 .externalNativeBuild
-elf-cleaner.sh
-settings.gradle
 .cxx
