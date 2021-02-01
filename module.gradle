@@ -4,7 +4,7 @@ ext {
     moduleName = "指纹支付 - 淘宝"
     moduleAuthor = "Jason Eric"
     moduleDescription = "让淘宝支持指纹支付 Fingerprint pay for Taobao."
-    moduleVersion = "v3.9.21"
+    moduleVersion = "v3.9.22"
     moduleVersionCode = 2
 
     moduleMinRiruApiVersion = 9
